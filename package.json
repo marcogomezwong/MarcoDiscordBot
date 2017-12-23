@@ -1,0 +1,15 @@
+{
+  "name": "Marco Bot",
+  "version": "1.0.0",
+  "description": "My own Discord bot intially developed using discord.io but translated into discord.js API",
+  "main": "bot.js",
+  "author": "MarcoBot Gomez",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "discord.js": "^11.2.1",
+    "opusscript": "0.0.6",
+    "pubg-api-redis": "^3.6.0",
+    "winston": "^2.4.0",
+    "ytdl-core": "^0.18.4"
+  }
+}

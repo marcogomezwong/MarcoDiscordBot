@@ -1,0 +1,15 @@
+{
+  "Help": {
+      "name": "Help",
+      "group": "User",
+      "desc": "Displays a list of commands.",
+      "usage": "help [group OR command]"
+    },
+    "Purge": {
+      "name": "Purge",
+      "group": "Moderator",
+      "desc": "Clears a number of messages",
+      "usage": "purge <messages>"
+    }
+
+}
