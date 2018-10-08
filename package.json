@@ -1,9 +1,9 @@
 {
   "name": "Marco Bot",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "My own Discord bot intially developed using discord.io but translated into discord.js API",
   "main": "bot.js",
-  "author": "MarcoBot Gomez",
+  "author": "Marco Gomez",
   "dependencies": {
     "discord.io": "github:woor/discord.io#gateway_v6",
     "discord.js": "^11.2.1",
